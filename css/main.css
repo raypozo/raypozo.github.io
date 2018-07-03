@@ -1,0 +1,39 @@
+html {
+  background: url(../images/tree.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Helvetica Neve', sans-serif;
+}
+.init-box{
+  width: 500px;
+  height: 500px;
+  background: rgba(0,0,0,0.6);
+  padding: 40px;
+  color: antiquewhite;
+  margin: 0 auto;
+  margin-top: 75px;
+  text-align: center;
+}
+.init-pic{
+  width: 30%;
+  height: 30%;
+  border-radius: 50%;
+}
+.socialnet-icons{
+  font-size: 40px;
+  letter-spacing: 10px;
+}
+.socialnet-icons a {
+  color: antiquewhite;
+}
+.line-break{
+  width: 310px;
+  margin: 0 auto;
+  border-top: 2px solid antiquewhite;
+}
+h1{
+  letter-spacing: 6px;
+  font-weight: 300;
+}
